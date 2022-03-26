@@ -4,7 +4,7 @@
 
 
   - Projects
-      - [Minecraft Text Animator 🎰](https://youtube.com)
+      - [Minecraft Text Animator 🎰](https://github.com/AIO-Develope/Minecraft-Text-Animator)
       
 More comming soon.
 
