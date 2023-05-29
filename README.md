@@ -6,6 +6,7 @@
   - Projects
       - [🎰 Minecraft Text Animator](https://github.com/AIO-Develope/Minecraft-Text-Animator)
       - [🎭 Roler](https://github.com/AIO-Develope/Roler)
+      - [🎢 Proxer](https://github.com/AIO-Develope/Proxer)
       
 More comming soon.
 
