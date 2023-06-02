@@ -56,6 +56,7 @@ More comming soon.
 <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white" />
 <img src="https://img.shields.io/badge/dell-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white" />
 
+# Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIO-Develope)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIO-Develope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
