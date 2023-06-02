@@ -58,5 +58,5 @@ More comming soon.
 
 # Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIO-Develope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIO-Develope&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
