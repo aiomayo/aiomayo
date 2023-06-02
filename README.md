@@ -55,3 +55,7 @@ More comming soon.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white" />
 <img src="https://img.shields.io/badge/dell-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white" />
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIO-Develope)](https://github.com/anuraghazra/github-readme-stats)
+
