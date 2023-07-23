@@ -5,12 +5,13 @@ btw i am not really active on github
 
 
   - Projects
-      - [🎰 Minecraft Text Animator](https://github.com/AIO-Develope/Minecraft-Text-Animator)
-      - [🎭 Roler](https://github.com/AIO-Develope/Roler)
-      - [🎢 Proxer](https://github.com/AIO-Develope/Proxer)
       - [📁 AIO Archive](https://github.com/AIO-Develope/AIO-Archive)
       - [🌲 AIO's Linktree](https://github.com/AIO-Develope/AIOs-Linktree)
+      - [🎭 Roler](https://github.com/AIO-Develope/Roler)
+      - [🎢 Proxer](https://github.com/AIO-Develope/Proxer)
       - [🔗 Youtube Livestream fetch](https://github.com/AIO-Develope/Youtube-Livestream-fetch)
+      - [🎰 Minecraft Text Animator](https://github.com/AIO-Develope/Minecraft-Text-Animator)
+
       
 More comming soon.
 
