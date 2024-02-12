@@ -2,8 +2,8 @@
 Welcome to my GitHub Page. I want to clarify that I am not a professional, and I do not upload every project I work on. Instead, I randomly upload various things from my PC. Everything you find here is 100% free and open source, and no credits are necessary. Feel free to use anything you find.
 btw i am not really active on github
 <h2 align="left">Overview</h3>
-      - [🖼️ PicScape Backend](https://github.com/AIO-Develope/PicScape-Backend) (Most Recent)
-      - [🎨 PicScape Frontend](https://github.com/AIO-Develope/PicScape-Frontend) (Most Recent)
+      - <a href="https://github.com/AIO-Develope/PicScape-Backend">🖼️ PicScape Backend</a> (Most Recent)
+      - <a href="https://github.com/AIO-Develope/PicScape-Frontend">🎨 PicScape Frontend</a> (Most Recent)
 
   - Projects
       - [📁 AIO Archive](https://github.com/AIO-Develope/AIO-Archive)
