@@ -4,13 +4,17 @@ btw i am not really active on github
 <h2 align="left">Overview</h3>
 Currently, I'm actively contributing to the development of both the <a href="https://github.com/AIO-Develope/PicScape-Backend">PicScape Backend</a> and <a href="https://github.com/AIO-Develope/PicScape-Frontend">PicScape Frontend</a> repositories.
 <br>
-  - Projects
-      - <a href="https://github.com/AIO-Develope/AIO-Archive">📁 AIO Archive</a><br>
-      - <a href="https://github.com/AIO-Develope/AIOs-Linktree">🌲 AIO's Linktree</a><br>
-      - <a href="https://github.com/AIO-Develope/Roler">🎭 Roler</a><br>
-      - <a href="https://github.com/AIO-Develope/Proxer">🎢 Proxer</a><br>
-      - <a href="https://github.com/AIO-Develope/Youtube-Livestream-fetch">🔗 Youtube Livestream fetch</a><br>
-      - <a href="https://github.com/AIO-Develope/Minecraft-Text-Animator">🎰 Minecraft Text Animator</a><br>
+<br>
+Projects:
+<ul>
+    <li><a href="https://github.com/AIO-Develope/AIO-Archive">📁 AIO Archive</a></li>
+    <li><a href="https://github.com/AIO-Develope/AIOs-Linktree">🌲 AIO's Linktree</a></li>
+    <li><a href="https://github.com/AIO-Develope/Roler">🎭 Roler</a></li>
+    <li><a href="https://github.com/AIO-Develope/Proxer">🎢 Proxer</a></li>
+    <li><a href="https://github.com/AIO-Develope/Youtube-Livestream-fetch">🔗 Youtube Livestream fetch</a></li>
+    <li><a href="https://github.com/AIO-Develope/Minecraft-Text-Animator">🎰 Minecraft Text Animator</a></li>
+</ul>
+
      
 
       
