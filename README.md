@@ -5,12 +5,14 @@ btw i am not really active on github
 Currently, I'm actively contributing to the development of both the <a href="https://github.com/AIO-Develope/PicScape-Backend">PicScape Backend</a> and <a href="https://github.com/AIO-Develope/PicScape-Frontend">PicScape Frontend</a> repositories.
 <br>
   - Projects
-      - [📁 AIO Archive](https://github.com/AIO-Develope/AIO-Archive)
-      - [🌲 AIO's Linktree](https://github.com/AIO-Develope/AIOs-Linktree)
-      - [🎭 Roler](https://github.com/AIO-Develope/Roler)
-      - [🎢 Proxer](https://github.com/AIO-Develope/Proxer)
-      - [🔗 Youtube Livestream fetch](https://github.com/AIO-Develope/Youtube-Livestream-fetch)
-      - [🎰 Minecraft Text Animator](https://github.com/AIO-Develope/Minecraft-Text-Animator)
+      - <a href="https://github.com/AIO-Develope/AIO-Archive">📁 AIO Archive</a>
+      - <a href="https://github.com/AIO-Develope/AIOs-Linktree">🌲 AIO's Linktree</a>
+      - <a href="https://github.com/AIO-Develope/Roler">🎭 Roler</a>
+      - <a href="https://github.com/AIO-Develope/Proxer">🎢 Proxer</a>
+      - <a href="https://github.com/AIO-Develope/Youtube-Livestream-fetch">🔗 Youtube Livestream fetch</a>
+      - <a href="https://github.com/AIO-Develope/Minecraft-Text-Animator">🎰 Minecraft Text Animator</a>
+      - <a href="https://github.com/AIO-Develope/PicScape-Backend">🖼️ PicScape Backend</a> (Most Recent)
+      - <a href="https://github.com/AIO-Develope/PicScape-Frontend">🎨 PicScape Frontend</a> (Most Recent)
 
       
 More comming soon.
