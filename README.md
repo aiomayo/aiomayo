@@ -3,6 +3,8 @@ Welcome to my GitHub Page. I want to clarify that I am not a professional, and I
 btw i am not really active on github
 <h2 align="left">Overview</h3>
 Currently, I'm actively contributing to the development of both the <a href="https://github.com/AIO-Develope/PicScape-Backend">PicScape Backend</a> and <a href="https://github.com/AIO-Develope/PicScape-Frontend">PicScape Frontend</a> repositories.
+Update:
+I need to pause the Picscape project, it got too messy, and I took time for the Tucky homepage.
 <br>
 <br>
 Projects:
