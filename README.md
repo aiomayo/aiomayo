@@ -11,7 +11,11 @@ Welcome to my GitHub profile! I'm a passionate hobby coder who loves building th
 - 🔭 I’m currently working on [HayaseDB](https://hayasedb.com)
 - 💬 Ask me about web development, backend services, or cloud infrastructure. I am always here to help
 - 📫 How to reach me: Sebastian-Stepper@gmx.de
-- 🎧 I love making music
+- 🎧 I love making music.
+- 📹 Interested in videography and photography.
+- 📜 I love politics and philosophy.
+- 💽 Vinyl collector and retro lover.
+
 
 ## 🛠️ Technologies & Tools
 
