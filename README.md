@@ -1,10 +1,11 @@
 ![ab67618600001016ad57d4f586a0265e270a1ccd](https://github.com/user-attachments/assets/7f7361bb-d4be-4a09-982c-2fa8bd86f837)
 
-
 # Hi there 👋, I'm AIO!
 
 
 Welcome to my GitHub profile! I'm a passionate hobby coder who loves building things in my spare time. Coding is not just my profession it's something I do for fun. I believe in the power of open source and enjoy sharing my work with the community. Feel free to explore my projects and use anything you find helpful.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D516PW6W)
 
 
 ## 🚀 About Me
