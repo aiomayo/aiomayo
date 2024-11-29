@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate hobby coder who loves building th
 - 📫 How to reach me: Sebastian-Stepper@gmx.de
 - 🎧 I love making music
 - 🎤 Audiophile and field recording enthusiast
+- 🖼️ Printing & designing posters and stickers
 - 📹 Interested in videography and photography
 - 📜 I love politics and philosophy
 - 💽 Vinyl collector and retro lover
