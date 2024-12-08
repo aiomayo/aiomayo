@@ -60,12 +60,6 @@ Welcome to my GitHub profile! I'm a passionate hobby coder who loves building th
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aio-develope&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aio-develope&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
 
 ## 🔗 Links
 - [LinkTree](https://aio-web.xyz)
