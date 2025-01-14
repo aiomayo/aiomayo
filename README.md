@@ -22,13 +22,24 @@ Welcome to my GitHub profile! I'm a passionate hobby coder who loves building th
 
 ## 🛠️ Technologies & Tools
 
+
+## Hardware
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=F0F0F0&style=flat-square)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
+
+## Software
+![Next Cloud](https://img.shields.io/badge/-Next%20Cloud-0B94DE?logo=nextcloud&logoColor=white&style=flat-square)
+![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![FL Studio](https://img.shields.io/badge/-FL%20Studio-FC5203?logo=flstudio&logoColor=white&style=flat-square)
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-%23007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
@@ -53,14 +64,13 @@ Welcome to my GitHub profile! I'm a passionate hobby coder who loves building th
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-### Tools
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![FL Studio](https://img.shields.io/badge/-FL%20Studio-FC5203?logo=flstudio&logoColor=white&style=flat-square)
-
 ### IDEs & Editors
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
+![GoLand](https://img.shields.io/badge/-GoLand-0f0f0f?logo=goland&logoColor=white&style=flat-square)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-346ac1?logo=android%20studio&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?logo=Flutter&logoColor=white&style=flat-square)
 
 ## 🔗 Links
 - [LinkTree](https://aio-web.xyz)
